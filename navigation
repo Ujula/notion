@@ -67,7 +67,7 @@
 	</nav>
 
 
-	<script>
+	<script> 
 
 		let direction = "horizontal";
 		if (direction === "vertical") {
